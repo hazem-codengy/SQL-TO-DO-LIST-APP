@@ -1,8 +1,8 @@
 const pg = require('pg');
 
 const config = {
-  database: 'weekend-to-do-app',
-  host: 'localhost',
+  database: 'postgres',
+  host: '01b653e7ba66420d541abfd675afcbde.gres.pie.host',
   port: 5432,
 };
 
